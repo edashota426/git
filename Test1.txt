@@ -4,3 +4,5 @@ naoya
 先ほどダウンロードして、打ち込みました
 
 branch作った
+
+masterにmergeしたい
