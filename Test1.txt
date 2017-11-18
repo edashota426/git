@@ -4,4 +4,8 @@ shota
 
 masterにらくがき
 masterに落書き２
+<<<<<<< HEAD
 masterに落書き３
+=======
+さらに落書き！
+>>>>>>> 61029579fd00154fff37d06e6aba5f062c8edb97
